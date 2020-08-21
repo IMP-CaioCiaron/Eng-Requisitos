@@ -3,6 +3,7 @@ Repositório para os artefatos</br>
 
 Iremos upar os artefatos aqui conforme eles estejam completos</br>
 </br>
-Artefato Glossário está sendo feito
+Iremos adicionar itens ao Glossário conforme eles vão aparecendo
 </br>
 ATUALIZAR FRONTEIRA SISTÊMICA
+ATUALIZAR USUÁRIOS E OUTROS STAKEHOLDERS
