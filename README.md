@@ -5,5 +5,4 @@ Iremos upar os artefatos aqui conforme eles estejam completos</br>
 </br>
 Iremos adicionar itens ao Glossário conforme eles vão aparecendo
 </br>
-ATUALIZAR FRONTEIRA SISTÊMICA
-ATUALIZAR USUÁRIOS E OUTROS STAKEHOLDERS
+
